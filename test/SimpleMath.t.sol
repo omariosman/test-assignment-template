@@ -29,3 +29,4 @@ contract SimpleMathTest is Test {
         assertEq(result4, 777777, "Test case 4 failed: 123456 + 654321 != 777777");
     }
 }
+
